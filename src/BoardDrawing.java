@@ -174,7 +174,7 @@ public class BoardDrawing extends JPanel {
 
     }
 /**
- * Metodo change_to_player_color
+ * Metodo change_player_color
  * @param g2d 
  * @param pl
  * @param cell
